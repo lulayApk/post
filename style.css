@@ -1,6 +1,4 @@
 *, *::before, *::after {
-    padding: 0;
-    margin: 0;
     user-select: none;
     box-sizing: border-box; /* always use this */
 }
@@ -22,7 +20,6 @@ p {
 
 img {
     max-width: 100%;
-    margin: .4rem;
     border-radius: 8px;
     box-shadow: 0 0 2rem 0 #ff2a2aa8;
 }
